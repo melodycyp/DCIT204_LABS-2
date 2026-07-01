@@ -1,6 +1,4 @@
-package lab2;
-
-public import java.util.Scanner;
+ import java.util.Scanner;
 
 public class PairSum {
 
@@ -56,6 +54,7 @@ public class PairSum {
 
         input.close();
     }
-} {
-    
 }
+ 
+    
+
